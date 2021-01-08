@@ -20,9 +20,9 @@ Estimating cardinalities of IMDB based benchmark JOB with deep learning model.
 * seaborn 0.10.1
 * SHAP 0.35.0
 
-### Database: 
-IMDB database: [CSV Files](https://github.com/gregrahn/join-order-benchmark#imdb-data-set)
-### Dataset
+### Dataset: 
+IMDB dataset
+### Benchmark Workload
 Join Order Benchmark Workload [JOB workload](https://github.com/gregrahn/join-order-benchmark#join-order-benchmark)
 
 ### Word Embedding Model:
