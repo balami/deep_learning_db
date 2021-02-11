@@ -10,11 +10,11 @@ The remaining queries are used for testing. PostgreSQL's optimizer (using EXPLAI
 
 * [Anaconda Individual Edition](https://docs.anaconda.com/anaconda/install/linux/) - The package and dependency manager.
 * [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/) - For live code and visualization.
-* [Goole Colab](https://colab.research.google.com/notebooks/gpu.ipynb) - Used for training on GPU
+* [Google Colab](https://colab.research.google.com/notebooks/gpu.ipynb) - Used for training on GPU
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
